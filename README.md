@@ -38,7 +38,7 @@ All the models used on this project had a performance above 70% that would be ac
 
 ## 5 - Medium Article
 
-The post explaining the development of the project can be found on the following [Medium post](https://medium.com/@karlheinz.cirne/a-starbucks-rewards-program-breakdown-customer-demographic-analysis-and-offers-use-35607ba5c4dd)
+The post explaining the development of the project can be found on the following [Medium post](.)
 
 ## 6 - Acknowledgements
 Udacity for providing an excellent Data Scientist training program and Starbucks to provide the datasets that were analyzed
