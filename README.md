@@ -3,7 +3,7 @@
 ## Table of Contents
 
   1 - Project Overview\
-  2 - Project Overview\
+  2 - Installation\
   3 - Methodology\
   4 - Results\
   5 - Conclusion\
